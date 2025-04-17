@@ -1,0 +1,1912 @@
+[
+    {
+        "question": "Quel est le plus long fleuve du monde ?",
+        "correct_answer": "L'Amazone",
+        "incorrect_answers": ["Le Nil", "Le Yangtsé"]
+    },
+    {
+        "question": "Qui a peint la Joconde ?",
+        "correct_answer": "Léonard de Vinci",
+        "incorrect_answers": ["Michel-Ange", "Raphaël"]
+    },
+    {
+        "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
+        "correct_answer": "1492",
+        "incorrect_answers": ["1453", "1519"]
+    },
+    {
+        "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+        "correct_answer": "Hydrogène",
+        "incorrect_answers": ["Oxygène", "Carbone"]
+    },
+    {
+        "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+        "correct_answer": "France",
+        "incorrect_answers": ["Croatie", "Brésil"]
+    },
+    {
+        "question": "Qui a écrit 'Les Misérables' ?",
+        "correct_answer": "Victor Hugo",
+        "incorrect_answers": ["Gustave Flaubert", "Émile Zola"]
+    },
+    {
+        "question": "Quelle est la capitale du Japon ?",
+        "correct_answer": "Tokyo",
+        "incorrect_answers": ["Kyoto", "Osaka"]
+    },
+    {
+        "question": "Quel scientifique a formulé la théorie de la relativité ?",
+        "correct_answer": "Albert Einstein",
+        "incorrect_answers": ["Isaac Newton", "Galilée"]
+    },
+    {
+        "question": "Quel est le plus haut sommet du monde ?",
+        "correct_answer": "Everest",
+        "incorrect_answers": ["K2", "Mont Blanc"]
+    },
+    {
+        "question": "Dans quelle ville se trouve la Statue de la Liberté ?",
+        "correct_answer": "New York",
+        "incorrect_answers": ["Boston", "Miami"]
+    },
+    {
+        "question": "Quel gaz est le principal responsable de l'effet de serre ?",
+        "correct_answer": "Dioxyde de carbone",
+        "incorrect_answers": ["Méthane", "Ozone"]
+    },
+    {
+        "question": "Quel roi de France était surnommé le Roi-Soleil ?",
+        "correct_answer": "Louis XIV",
+        "incorrect_answers": ["Louis XVI", "François Ier"]
+    },
+    {
+        "question": "Quel est le plus grand océan de la planète ?",
+        "correct_answer": "Océan Pacifique",
+        "incorrect_answers": ["Océan Atlantique", "Océan Indien"]
+    },
+    {
+        "question": "Qui a composé la 9e symphonie, incluant l'Ode à la Joie ?",
+        "correct_answer": "Ludwig van Beethoven",
+        "incorrect_answers": ["Wolfgang Amadeus Mozart", "Johann Sebastian Bach"]
+    },
+    {
+        "question": "Quel animal est le symbole de l'Australie ?",
+        "correct_answer": "Kangourou",
+        "incorrect_answers": ["Koala", "Dingo"]
+    },
+    {
+        "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
+        "correct_answer": "Neil Armstrong",
+        "incorrect_answers": ["Buzz Aldrin", "Yuri Gagarin"]
+    },
+    {
+        "question": "Quelle est la langue officielle du Brésil ?",
+        "correct_answer": "Portugais",
+        "incorrect_answers": ["Espagnol", "Anglais"]
+    },
+    {
+        "question": "Quel est l'auteur de 'Roméo et Juliette' ?",
+        "correct_answer": "William Shakespeare",
+        "incorrect_answers": ["Charles Dickens", "Jane Austen"]
+    },
+    {
+        "question": "Quel est le plus grand désert du monde ?",
+        "correct_answer": "Désert de l'Antarctique",
+        "incorrect_answers": ["Sahara", "Gobi"]
+    },
+    {
+        "question": "Quel pays est surnommé le 'pays du Soleil-Levant' ?",
+        "correct_answer": "Japon",
+        "incorrect_answers": ["Chine", "Corée du Sud"]
+    },
+    {
+        "question": "Quel est le nom de la célèbre tour penchée en Italie ?",
+        "correct_answer": "Tour de Pise",
+        "incorrect_answers": ["Tour Eiffel", "Big Ben"]
+    },
+    {
+        "question": "Quel élément chimique a pour symbole 'Au' ?",
+        "correct_answer": "Or",
+        "incorrect_answers": ["Argent", "Fer"]
+    },
+    {
+        "question": "Quel pharaon est célèbre pour son masque funéraire en or ?",
+        "correct_answer": "Toutânkhamon",
+        "incorrect_answers": ["Ramsès II", "Cléopâtre"]
+    },
+    {
+        "question": "Quel sport est associé au Tour de France ?",
+        "correct_answer": "Cyclisme",
+        "incorrect_answers": ["Athlétisme", "Natation"]
+    },
+    {
+        "question": "Quel est le plus petit pays du monde ?",
+        "correct_answer": "Vatican",
+        "incorrect_answers": ["Monaco", "Malte"]
+    },
+    {
+        "question": "Quel peintre est connu pour ses 'Nymphéas' ?",
+        "correct_answer": "Claude Monet",
+        "incorrect_answers": ["Vincent van Gogh", "Pierre-Auguste Renoir"]
+    },
+    {
+        "question": "Quel est le nom du célèbre volcan près de Naples ?",
+        "correct_answer": "Vésuve",
+        "incorrect_answers": ["Etna", "Stromboli"]
+    },
+    {
+        "question": "Quel est l'auteur de '1984' ?",
+        "correct_answer": "George Orwell",
+        "incorrect_answers": ["Aldous Huxley", "Ray Bradbury"]
+    },
+    {
+        "question": "Quel pays a pour capitale Canberra ?",
+        "correct_answer": "Australie",
+        "incorrect_answers": ["Nouvelle-Zélande", "Canada"]
+    },
+    {
+        "question": "Quel est le nom de la première femme Prix Nobel de la Paix ?",
+        "correct_answer": "Bertha von Suttner",
+        "incorrect_answers": ["Marie Curie", "Mère Teresa"]
+    },
+    {
+        "question": "Quel est le plus grand mammifère marin ?",
+        "correct_answer": "Baleine bleue",
+        "incorrect_answers": ["Orque", "Cachalot"]
+    },
+    {
+        "question": "Quel compositeur est surnommé le 'père de la symphonie' ?",
+        "correct_answer": "Joseph Haydn",
+        "incorrect_answers": ["Mozart", "Beethoven"]
+    },
+    {
+        "question": "Quel pays est le plus peuplé du monde ?",
+        "correct_answer": "Inde",
+        "incorrect_answers": ["Chine", "États-Unis"]
+    },
+    {
+        "question": "Quel est le nom du célèbre tableau de Munch représentant un cri ?",
+        "correct_answer": "Le Cri",
+        "incorrect_answers": ["L'Homme qui hurle", "L'Angoisse"]
+    },
+    {
+        "question": "Quel gaz compose environ 78% de l'atmosphère terrestre ?",
+        "correct_answer": "Azote",
+        "incorrect_answers": ["Oxygène", "Argon"]
+    },
+    {
+        "question": "Quel est l'auteur de 'L'Étranger' ?",
+        "correct_answer": "Albert Camus",
+        "incorrect_answers": ["Jean-Paul Sartre", "André Gide"]
+    },
+    {
+        "question": "Quel est le plus grand lac d'Afrique ?",
+        "correct_answer": "Lac Victoria",
+        "incorrect_answers": ["Lac Tanganyika", "Lac Malawi"]
+    },
+    {
+        "question": "Quel pays a pour drapeau un soleil jaune sur fond bleu et rouge ?",
+        "correct_answer": "Macédoine du Nord",
+        "incorrect_answers": ["Albanie", "Monténégro"]
+    },
+    {
+        "question": "Quel est le nom du premier satellite artificiel ?",
+        "correct_answer": "Spoutnik",
+        "incorrect_answers": ["Explorer", "Vostok"]
+    },
+    {
+        "question": "Quel est l'auteur de 'Don Quichotte' ?",
+        "correct_answer": "Miguel de Cervantès",
+        "incorrect_answers": ["Federico García Lorca", "Gabriel García Márquez"]
+    },
+    {
+        "question": "Quel est le plus long pont suspendu du monde ?",
+        "correct_answer": "Pont Akashi Kaikyo",
+        "incorrect_answers": ["Golden Gate", "Pont de Lisbonne"]
+    },
+    {
+        "question": "Quel pays est connu pour ses fjords ?",
+        "correct_answer": "Norvège",
+        "incorrect_answers": ["Suède", "Islande"]
+    },
+    {
+        "question": "Quel est le nom du dieu grec de la guerre ?",
+        "correct_answer": "Arès",
+        "incorrect_answers": ["Zeus", "Apollon"]
+    },
+    {
+        "question": "Quel sport est pratiqué à Wimbledon ?",
+        "correct_answer": "Tennis",
+        "incorrect_answers": ["Golf", "Cricket"]
+    },
+    {
+        "question": "Quel est l'auteur de 'Harry Potter' ?",
+        "correct_answer": "J.K. Rowling",
+        "incorrect_answers": ["C.S. Lewis", "J.R.R. Tolkien"]
+    },
+    {
+        "question": "Quel est le plus grand reptile du monde ?",
+        "correct_answer": "Crocodile marin",
+        "incorrect_answers": ["Anaconda", "Varan de Komodo"]
+    },
+    {
+        "question": "Quel pays a pour capitale Nairobi ?",
+        "correct_answer": "Kenya",
+        "incorrect_answers": ["Ouganda", "Tanzanie"]
+    },
+    {
+        "question": "Quel est le nom du célèbre opéra de Verdi ?",
+        "correct_answer": "La Traviata",
+        "incorrect_answers": ["Carmen", "Tosca"]
+    },
+    {
+        "question": "Quel est le plus ancien site classé au patrimoine mondial de l'UNESCO ?",
+        "correct_answer": "Îles Galápagos",
+        "incorrect_answers": ["Machu Picchu", "Pyramides de Gizeh"]
+    },
+    {
+        "question": "Quel est l'auteur de 'Crime et Châtiment' ?",
+        "correct_answer": "Fiodor Dostoïevski",
+        "incorrect_answers": ["Léon Tolstoï", "Anton Tchekhov"]
+    },
+    {
+        "question": "Quel est le plus grand producteur de café au monde ?",
+        "correct_answer": "Brésil",
+        "incorrect_answers": ["Colombie", "Éthiopie"]
+    },
+    {
+        "question": "Quel est le nom du dieu égyptien du soleil ?",
+        "correct_answer": "Râ",
+        "incorrect_answers": ["Anubis", "Osiris"]
+    },
+    {
+        "question": "Quel pays a pour capitale Reykjavik ?",
+        "correct_answer": "Islande",
+        "incorrect_answers": ["Norvège", "Finlande"]
+    },
+    {
+        "question": "Quel est le nom de la célèbre cathédrale de Paris ?",
+        "correct_answer": "Notre-Dame",
+        "incorrect_answers": ["Sainte-Chapelle", "Sacré-Cœur"]
+    },
+    {
+        "question": "Quel est l'auteur de 'Le Petit Prince' ?",
+        "correct_answer": "Antoine de Saint-Exupéry",
+        "incorrect_answers": ["Jules Verne", "Alexandre Dumas"]
+    },
+    {
+        "question": "Quel est le plus grand carnivore terrestre ?",
+        "correct_answer": "Ours polaire",
+        "incorrect_answers": ["Lion", "Tigre"]
+    },
+    {
+        "question": "Quel pays a pour monnaie le yen ?",
+        "correct_answer": "Japon",
+        "incorrect_answers": ["Chine", "Corée du Sud"]
+    },
+    {
+        "question": "Quel est le nom du célèbre tableau de Léonard de Vinci représentant un repas ?",
+        "correct_answer": "La Cène",
+        "incorrect_answers": ["La Joconde", "L'Annonciation"]
+    },
+    {
+        "question": "Quel est le plus grand archipel du monde ?",
+        "correct_answer": "Indonésie",
+        "incorrect_answers": ["Philippines", "Maldives"]
+    },
+    {
+        "question": "Quel est l'auteur de 'Les Fleurs du Mal' ?",
+        "correct_answer": "Charles Baudelaire",
+        "incorrect_answers": ["Paul Verlaine", "Arthur Rimbaud"]
+    },
+    {
+        "question": "Quel pays a pour capitale Buenos Aires ?",
+        "correct_answer": "Argentine",
+        "incorrect_answers": ["Chili", "Uruguay"]
+    },
+    {
+        "question": "Quel est le nom du célèbre volcan du Japon ?",
+        "correct_answer": "Mont Fuji",
+        "incorrect_answers": ["Mont Asama", "Mont Aso"]
+    },
+    {
+        "question": "Quel est l'auteur de 'Orgueil et Préjugés' ?",
+        "correct_answer": "Jane Austen",
+        "incorrect_answers": ["Charlotte Brontë", "Emily Dickinson"]
+    },
+    {
+        "question": "Quel est le plus grand oiseau du monde ?",
+        "correct_answer": "Autruche",
+        "incorrect_answers": ["Condor", "Albatros"]
+    },
+    {
+        "question": "Quel pays a pour capitale Bangkok ?",
+        "correct_answer": "Thaïlande",
+        "incorrect_answers": ["Vietnam", "Laos"]
+    },
+    {
+        "question": "Quel est le nom du célèbre ballet de Tchaïkovski ?",
+        "correct_answer": "Casse-Noisette",
+        "incorrect_answers": ["Le Lac des Cygnes", "La Belle au Bois Dormant"]
+    },
+    {
+        "question": "Quel est le plus grand producteur de pétrole au monde ?",
+        "correct_answer": "États-Unis",
+        "incorrect_answers": ["Arabie Saoudite", "Russie"]
+    },
+    {
+        "question": "Quel est l'auteur de 'Le Seigneur des Anneaux' ?",
+        "correct_answer": "J.R.R. Tolkien",
+        "incorrect_answers": ["C.S. Lewis", "George R.R. Martin"]
+    },
+    {
+        "question": "Quel pays a pour capitale Ottawa ?",
+        "correct_answer": "Canada",
+        "incorrect_answers": ["Australie", "Nouvelle-Zélande"]
+    },
+    {
+        "question": "Quel est le nom du célèbre tableau de Van Gogh représentant un ciel étoilé ?",
+        "correct_answer": "La Nuit étoilée",
+        "incorrect_answers": ["Les Tournesols", "Le Café de nuit"]
+    },
+    {
+        "question": "Quel est le plus grand poisson du monde ?",
+        "correct_answer": "Requin-baleine",
+        "incorrect_answers": ["Requin blanc", "Thon rouge"]
+    },
+    {
+        "question": "Quel pays a pour capitale Lisbonne ?",
+        "correct_answer": "Portugal",
+        "incorrect_answers": ["Espagne", "Italie"]
+    },
+    {
+        "question": "Quel est le nom du célèbre opéra de Mozart ?",
+        "correct_answer": "La Flûte enchantée",
+        "incorrect_answers": ["Don Giovanni", "Les Noces de Figaro"]
+    },
+    {
+        "question": "Quel est l'auteur de 'Moby Dick' ?",
+        "correct_answer": "Herman Melville",
+        "incorrect_answers": ["Mark Twain", "Nathaniel Hawthorne"]
+    },
+    {
+        "question": "Quel pays a pour capitale Séoul ?",
+        "correct_answer": "Corée du Sud",
+        "incorrect_answers": ["Corée du Nord", "Japon"]
+    },
+    {
+        "question": "Quel est le nom du célèbre monument inca au Pérou ?",
+        "correct_answer": "Machu Picchu",
+        "incorrect_answers": ["Chichén Itzá", "Tikal"]
+    },
+    {
+        "question": "Quel est le plus grand primate du monde ?",
+        "correct_answer": "Gorille",
+        "incorrect_answers": ["Orang-outan", "Chimpanzé"]
+    },
+    {
+        "question": "Quel pays a pour capitale Ankara ?",
+        "correct_answer": "Turquie",
+        "incorrect_answers": ["Grèce", "Syrie"]
+    },
+    {
+        "question": "Quel est l'auteur de 'Guerre et Paix' ?",
+        "correct_answer": "Léon Tolstoï",
+        "incorrect_answers": ["Fiodor Dostoïevski", "Ivan Tourgueniev"]
+    },
+    {
+        "question": "Quel est le plus grand lac d'eau douce du monde ?",
+        "correct_answer": "Lac Supérieur",
+        "incorrect_answers": ["Lac Baïkal", "Lac Michigan"]
+    },
+    {
+        "question": "Quel pays a pour capitale Hanoï ?",
+        "correct_answer": "Vietnam",
+        "incorrect_answers": ["Thaïlande", "Cambodge"]
+    },
+    {
+        "question": "Quel est le nom du célèbre tableau de Picasso représentant la guerre ?",
+        "correct_answer": "Guernica",
+        "incorrect_answers": ["Les Demoiselles d'Avignon", "Le Vieil Homme à la guitare"]
+    },
+    {
+        "question": "Quel est le plus grand félin du monde ?",
+        "correct_answer": "Tigre",
+        "incorrect_answers": ["Lion", "Jaguar"]
+    },
+    {
+        "question": "Quel pays a pour capitale Dublin ?",
+        "correct_answer": "Irlande",
+        "incorrect_answers": ["Écosse", "Pays de Galles"]
+    },
+    {
+        "question": "Quel est le nom du célèbre compositeur de 'L'Hymne à la joie' ?",
+        "correct_answer": "Ludwig van Beethoven",
+        "incorrect_answers": ["Johannes Brahms", "Franz Schubert"]
+    },
+    {
+        "question": "Quel est l'auteur de 'Le Comte de Monte-Cristo' ?",
+        "correct_answer": "Alexandre Dumas",
+        "incorrect_answers": ["Victor Hugo", "Jules Verne"]
+    },
+    {
+        "question": "Quel pays a pour capitale Lima ?",
+        "correct_answer": "Pérou",
+        "incorrect_answers": ["Bolivie", "Équateur"]
+    },
+    {
+        "question": "Quel est le nom du célèbre volcan d'Hawaï ?",
+        "correct_answer": "Kilauea",
+        "incorrect_answers": ["Mauna Loa", "Haleakalā"]
+    },
+    {
+        "question": "Quel est le plus grand producteur de vin au monde ?",
+        "correct_answer": "Italie",
+        "incorrect_answers": ["France", "Espagne"]
+    },
+    {
+        "question": "Quel pays a pour capitale Pretoria ?",
+        "correct_answer": "Afrique du Sud",
+        "incorrect_answers": ["Nigeria", "Kenya"]
+    },
+    {
+        "question": "Quel est l'auteur de 'Les Hauts de Hurlevent' ?",
+        "correct_answer": "Emily Brontë",
+        "incorrect_answers": ["Charlotte Brontë", "Anne Brontë"]
+    },
+    {
+        "question": "Quel est le plus grand arbre du monde ?",
+        "correct_answer": "Séquoia géant",
+        "incorrect_answers": ["Baobab", "Pin de Norfolk"]
+    },
+    {
+        "question": "Quel pays a pour capitale Oslo ?",
+        "correct_answer": "Norvège",
+        "incorrect_answers": ["Suède", "Danemark"]
+    },
+    {
+        "question": "Quel est le nom du célèbre ballet de Prokofiev ?",
+        "correct_answer": "Roméo et Juliette",
+        "incorrect_answers": ["Cendrillon", "L'Oiseau de feu"]
+    },
+    {
+        "question": "Quel est l'auteur de 'L'Île au trésor' ?",
+        "correct_answer": "Robert Louis Stevenson",
+        "incorrect_answers": ["Daniel Defoe", "Jonathan Swift"]
+    },
+    {
+        "question": "Quel pays a pour capitale Bogotá ?",
+        "correct_answer": "Colombie",
+        "incorrect_answers": ["Venezuela", "Équateur"]
+    },
+    {
+        "question": "Quel est le nom du célèbre tableau de Michel-Ange au Vatican ?",
+        "correct_answer": "Le Jugement dernier",
+        "incorrect_answers": ["La Création d'Adam", "La Pietà"]
+    },
+    {
+        "question": "Quel est le nom du premier ordinateur personnel commercialisé par IBM en 1981 ?",
+        "correct_answer": "IBM PC",
+        "incorrect_answers": ["Commodore 64", "Apple II"]
+    },
+    {
+        "question": "Quel langage de programmation a été créé en premier ?",
+        "correct_answer": "Fortran",
+        "incorrect_answers": ["C", "Python"]
+    },
+    {
+        "question": "Quel est le protocole utilisé pour naviguer sur le World Wide Web ?",
+        "correct_answer": "HTTP",
+        "incorrect_answers": ["FTP", "SMTP"]
+    },
+    {
+        "question": "Quel est le nom du système d'exploitation open-source basé sur le noyau Linux ?",
+        "correct_answer": "Ubuntu",
+        "incorrect_answers": ["Windows", "macOS"]
+    },
+    {
+        "question": "Quel composant est considéré comme le 'cerveau' d'un ordinateur ?",
+        "correct_answer": "Processeur (CPU)",
+        "incorrect_answers": ["Mémoire RAM", "Carte graphique"]
+    },
+    {
+        "question": "Quel est le nom du premier virus informatique découvert en 1986 ?",
+        "correct_answer": "Brain",
+        "incorrect_answers": ["Creeper", "ILOVEYOU"]
+    },
+    {
+        "question": "Quel langage de programmation est principalement utilisé pour le développement web côté client ?",
+        "correct_answer": "JavaScript",
+        "incorrect_answers": ["PHP", "Ruby"]
+    },
+    {
+        "question": "Quel est le nom du protocole sécurisé utilisé pour les transactions en ligne ?",
+        "correct_answer": "HTTPS",
+        "incorrect_answers": ["TCP", "UDP"]
+    },
+    {
+        "question": "Quel est le nom de la première IA développée par IBM pour jouer aux échecs ?",
+        "correct_answer": "Deep Blue",
+        "incorrect_answers": ["Watson", "AlphaGo"]
+    },
+    {
+        "question": "Quel est le système de fichiers utilisé par Windows 10 ?",
+        "correct_answer": "NTFS",
+        "incorrect_answers": ["FAT32", "ext4"]
+    },
+    {
+        "question": "Quel est le nom du créateur du système d'exploitation Linux ?",
+        "correct_answer": "Linus Torvalds",
+        "incorrect_answers": ["Bill Gates", "Steve Jobs"]
+    },
+    {
+        "question": "Quel est le port standard pour le protocole HTTP ?",
+        "correct_answer": "80",
+        "incorrect_answers": ["443", "21"]
+    },
+    {
+        "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
+        "correct_answer": "Python",
+        "incorrect_answers": ["Java", "C++"]
+    },
+    {
+        "question": "Quel est le nom du premier navigateur web grand public ?",
+        "correct_answer": "Mosaic",
+        "incorrect_answers": ["Netscape", "Internet Explorer"]
+    },
+    {
+        "question": "Quel est le terme utilisé pour désigner une attaque informatique visant à submerger un serveur ?",
+        "correct_answer": "Attaque DDoS",
+        "incorrect_answers": ["Phishing", "Ransomware"]
+    },
+    {
+        "question": "Quel est le nom de la technologie sans fil utilisée pour connecter des périphériques à courte distance ?",
+        "correct_answer": "Bluetooth",
+        "incorrect_answers": ["Wi-Fi", "NFC"]
+    },
+    {
+        "question": "Quel est le nom du premier microprocesseur commercialisé par Intel ?",
+        "correct_answer": "4004",
+        "incorrect_answers": ["8086", "Pentium"]
+    },
+    {
+        "question": "Quel est le protocole utilisé pour envoyer des e-mails ?",
+        "correct_answer": "SMTP",
+        "incorrect_answers": ["IMAP", "POP3"]
+    },
+    {
+        "question": "Quel est le nom du système d'exploitation mobile développé par Google ?",
+        "correct_answer": "Android",
+        "incorrect_answers": ["iOS", "Windows Phone"]
+    },
+    {
+        "question": "Quel est le nom de la mémoire qui conserve les données même sans alimentation ?",
+        "correct_answer": "Mémoire flash",
+        "incorrect_answers": ["RAM", "Cache"]
+    },
+    {
+        "question": "Quel est le langage de balisage utilisé pour structurer des pages web ?",
+        "correct_answer": "HTML",
+        "incorrect_answers": ["CSS", "XML"]
+    },
+    {
+        "question": "Quel est le nom du premier ordinateur à utiliser une interface graphique ?",
+        "correct_answer": "Xerox Alto",
+        "incorrect_answers": ["Apple Lisa", "Commodore Amiga"]
+    },
+    {
+        "question": "Quel est le terme pour un logiciel malveillant qui se déguise en programme légitime ?",
+        "correct_answer": "Cheval de Troie",
+        "incorrect_answers": ["Ver", "Spyware"]
+    },
+    {
+        "question": "Quel est le nom du protocole utilisé pour les appels vidéo sur Internet ?",
+        "correct_answer": "VoIP",
+        "incorrect_answers": ["FTP", "SSH"]
+    },
+    {
+        "question": "Quel est le nom de l’algorithme de compression utilisé dans les fichiers ZIP ?",
+        "correct_answer": "DEFLATE",
+        "incorrect_answers": ["Huffman", "LZW"]
+    },
+    {
+        "question": "Quel est le nom du premier réseau social lancé en 2004 ?",
+        "correct_answer": "Facebook",
+        "incorrect_answers": ["MySpace", "Twitter"]
+    },
+    {
+        "question": "Quel est le langage de programmation orienté objet créé par Sun Microsystems ?",
+        "correct_answer": "Java",
+        "incorrect_answers": ["C#", "Python"]
+    },
+    {
+        "question": "Quel est le nom de la technologie qui permet de virtualiser plusieurs systèmes sur un même matériel ?",
+        "correct_answer": "Hyperviseur",
+        "incorrect_answers": ["Conteneur", "Cluster"]
+    },
+    {
+        "question": "Quel est le port standard pour le protocole HTTPS ?",
+        "correct_answer": "443",
+        "incorrect_answers": ["80", "22"]
+    },
+    {
+        "question": "Quel est le nom du système d'exploitation développé par Apple pour ses ordinateurs ?",
+        "correct_answer": "macOS",
+        "incorrect_answers": ["iOS", "Linux"]
+    },
+    {
+        "question": "Quel est le nom du premier jeu vidéo considéré comme un 'serious game' ?",
+        "correct_answer": "The Oregon Trail",
+        "incorrect_answers": ["Pong", "Space Invaders"]
+    },
+    {
+        "question": "Quel est le terme pour une attaque qui consiste à deviner un mot de passe par essais répétés ?",
+        "correct_answer": "Force brute",
+        "incorrect_answers": ["Phishing", "Keylogging"]
+    },
+    {
+        "question": "Quel est le nom du langage utilisé pour styliser les pages web ?",
+        "correct_answer": "CSS",
+        "incorrect_answers": ["HTML", "JavaScript"]
+    },
+    {
+        "question": "Quel est le nom du premier moteur de recherche lancé en 1994 ?",
+        "correct_answer": "Yahoo!",
+        "incorrect_answers": ["Google", "AltaVista"]
+    },
+    {
+        "question": "Quel est le nom de la technologie de stockage basée sur des disques à semi-conducteurs ?",
+        "correct_answer": "SSD",
+        "incorrect_answers": ["HDD", "RAM"]
+    },
+    {
+        "question": "Quel est le nom du protocole utilisé pour transférer des fichiers sur Internet ?",
+        "correct_answer": "FTP",
+        "incorrect_answers": ["HTTP", "SNMP"]
+    },
+    {
+        "question": "Quel est le nom de l’entreprise qui a développé le système d’exploitation Windows ?",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": ["Apple", "Google"]
+    },
+    {
+        "question": "Quel est le nom du premier langage de programmation orienté objet ?",
+        "correct_answer": "Simula",
+        "incorrect_answers": ["Smalltalk", "C++"]
+    },
+    {
+        "question": "Quel est le terme pour un réseau privé virtuel utilisé pour sécuriser les connexions ?",
+        "correct_answer": "VPN",
+        "incorrect_answers": ["LAN", "WAN"]
+    },
+    {
+        "question": "Quel est le nom de la première console de jeu vidéo à utiliser des CD-ROM ?",
+        "correct_answer": "Sony PlayStation",
+        "incorrect_answers": ["Sega Saturn", "Nintendo 64"]
+    },
+    {
+        "question": "Quel est le nom du protocole utilisé pour résoudre les noms de domaine en adresses IP ?",
+        "correct_answer": "DNS",
+        "incorrect_answers": ["DHCP", "ARP"]
+    },
+    {
+        "question": "Quel est le nom du premier tableur électronique ?",
+        "correct_answer": "VisiCalc",
+        "incorrect_answers": ["Lotus 1-2-3", "Excel"]
+    },
+    {
+        "question": "Quel est le terme pour un logiciel qui surveille les activités d’un utilisateur à son insu ?",
+        "correct_answer": "Spyware",
+        "incorrect_answers": ["Adware", "Ransomware"]
+    },
+    {
+        "question": "Quel est le nom du langage de programmation créé par Dennis Ritchie ?",
+        "correct_answer": "C",
+        "incorrect_answers": ["C++", "Perl"]
+    },
+    {
+        "question": "Quel est le nom de la technologie qui permet de stocker des données sur plusieurs serveurs pour la redondance ?",
+        "correct_answer": "RAID",
+        "incorrect_answers": ["NAS", "SAN"]
+    },
+    {
+        "question": "Quel est le nom du premier système d’exploitation graphique d’Apple ?",
+        "correct_answer": "System 1",
+        "incorrect_answers": ["Mac OS X", "Lisa OS"]
+    },
+    {
+        "question": "Quel est le nom du protocole utilisé pour gérer les imprimantes en réseau ?",
+        "correct_answer": "IPP",
+        "incorrect_answers": ["SNMP", "SMB"]
+    },
+    {
+        "question": "Quel est le nom de la première intelligence artificielle à battre un champion du monde au jeu de Go ?",
+        "correct_answer": "AlphaGo",
+        "incorrect_answers": ["Deep Blue", "Watson"]
+    },
+    {
+        "question": "Quel est le terme pour une copie de sauvegarde d’un système ou de données ?",
+        "correct_answer": "Backup",
+        "incorrect_answers": ["Snapshot", "Mirror"]
+    },
+    {
+        "question": "Quel est le nom du langage utilisé pour interroger les bases de données relationnelles ?",
+        "correct_answer": "SQL",
+        "incorrect_answers": ["NoSQL", "XML"]
+    },
+    {
+        "question": "Quel est le nom du premier ordinateur à utiliser un écran tactile ?",
+        "correct_answer": "HP-150",
+        "incorrect_answers": ["Apple Newton", "IBM Simon"]
+    },
+    {
+        "question": "Quel est le terme pour un réseau de petits ordinateurs infectés utilisé pour des attaques ?",
+        "correct_answer": "Botnet",
+        "incorrect_answers": ["Cluster", "Grid"]
+    },
+    {
+        "question": "Quel est le nom de la technologie qui permet de connecter des appareils via un câble universel ?",
+        "correct_answer": "USB",
+        "incorrect_answers": ["HDMI", "Thunderbolt"]
+    },
+    {
+        "question": "Quel est le nom du premier logiciel de traitement de texte grand public ?",
+        "correct_answer": "WordStar",
+        "incorrect_answers": ["Microsoft Word", "WordPerfect"]
+    },
+    {
+        "question": "Quel est le protocole utilisé pour accéder à distance à un serveur ?",
+        "correct_answer": "SSH",
+        "incorrect_answers": ["Telnet", "RDP"]
+    },
+    {
+        "question": "Quel est le nom de la technologie qui permet de créer des environnements isolés pour exécuter des applications ?",
+        "correct_answer": "Conteneur",
+        "incorrect_answers": ["Machine virtuelle", "Sandbox"]
+    },
+    {
+        "question": "Quel est le nom du premier smartphone lancé par Apple ?",
+        "correct_answer": "iPhone",
+        "incorrect_answers": ["BlackBerry", "Palm Treo"]
+    },
+    {
+        "question": "Quel est le terme pour une attaque qui intercepte les communications entre deux parties ?",
+        "correct_answer": "Man-in-the-middle",
+        "incorrect_answers": ["Phishing", "SQL Injection"]
+    },
+    {
+        "question": "Quel est le nom du langage de programmation utilisé pour les contrats intelligents sur Ethereum ?",
+        "correct_answer": "Solidity",
+        "incorrect_answers": ["Rust", "Go"]
+    },
+    {
+        "question": "Quel est le nom de la technologie qui permet de synchroniser des fichiers sur plusieurs appareils ?",
+        "correct_answer": "Cloud Sync",
+        "incorrect_answers": ["FTP", "NAS"]
+    },
+    {
+        "question": "Quel est le nom du premier système de gestion de bases de données relationnelles ?",
+        "correct_answer": "System R",
+        "incorrect_answers": ["Oracle", "MySQL"]
+    },
+    {
+        "question": "Quel est le terme pour un programme qui automatise des tâches répétitives ?",
+        "correct_answer": "Script",
+        "incorrect_answers": ["Macro", "Batch"]
+    },
+    {
+        "question": "Quel est le nom du protocole utilisé pour la messagerie instantanée ?",
+        "correct_answer": "XMPP",
+        "incorrect_answers": ["SIP", "IRC"]
+    },
+    {
+        "question": "Quel est le nom de la première puce graphique dédiée aux jeux vidéo ?",
+        "correct_answer": "3dfx Voodoo",
+        "incorrect_answers": ["NVIDIA GeForce", "ATI Radeon"]
+    },
+    {
+        "question": "Quel est le terme pour une méthode de cryptage qui utilise une clé publique et une clé privée ?",
+        "correct_answer": "Cryptographie asymétrique",
+        "incorrect_answers": ["Cryptographie symétrique", "Hashing"]
+    },
+    {
+        "question": "Quel est le nom du langage de programmation utilisé pour les applications iOS ?",
+        "correct_answer": "Swift",
+        "incorrect_answers": ["Objective-C", "Kotlin"]
+    },
+    {
+        "question": "Quel est le nom de la technologie qui permet de détecter les intrusions dans un réseau ?",
+        "correct_answer": "IDS",
+        "incorrect_answers": ["IPS", "Firewall"]
+    },
+    {
+        "question": "Quel est le nom du premier logiciel de retouche d’images grand public ?",
+        "correct_answer": "Photoshop",
+        "incorrect_answers": ["GIMP", "PaintShop Pro"]
+    },
+    {
+        "question": "Quel est le protocole utilisé pour gérer les appareils IoT ?",
+        "correct_answer": "MQTT",
+        "incorrect_answers": ["CoAP", "AMQP"]
+    },
+    {
+        "question": "Quel est le nom de la première intelligence artificielle conversationnelle développée par xAI ?",
+        "correct_answer": "Grok",
+        "incorrect_answers": ["Siri", "Cortana"]
+    },
+    {
+        "question": "Quel est le terme pour un logiciel qui simule un environnement pour tester des programmes ?",
+        "correct_answer": "Sandbox",
+        "incorrect_answers": ["Emulateur", "Simulateur"]
+    },
+    {
+        "question": "Quel est le nom du langage utilisé pour créer des applications Android ?",
+        "correct_answer": "Kotlin",
+        "incorrect_answers": ["Swift", "Dart"]
+    },
+    {
+        "question": "Quel est le nom de la technologie qui permet de suivre les modifications dans un projet logiciel ?",
+        "correct_answer": "Git",
+        "incorrect_answers": ["SVN", "Mercurial"]
+    },
+    {
+        "question": "Quel est le nom du premier réseau informatique à grande échelle ?",
+        "correct_answer": "ARPANET",
+        "incorrect_answers": ["Usenet", "Bitnet"]
+    },
+    {
+        "question": "Quel est le terme pour une attaque qui injecte du code malveillant dans une base de données ?",
+        "correct_answer": "Injection SQL",
+        "incorrect_answers": ["XSS", "CSRF"]
+    },
+    {
+        "question": "Quel est le nom du protocole utilisé pour la diffusion de contenu multimédia en streaming ?",
+        "correct_answer": "RTMP",
+        "incorrect_answers": ["HLS", "DASH"]
+    },
+    {
+        "question": "Quel est le nom de la première puce ARM utilisée dans les smartphones ?",
+        "correct_answer": "ARM7",
+        "incorrect_answers": ["Cortex-A", "Snapdragon"]
+    },
+    {
+        "question": "Quel est le terme pour un logiciel qui optimise les performances d’un système ?",
+        "correct_answer": "Utilitaire",
+        "incorrect_answers": ["Driver", "Firmware"]
+    },
+    {
+        "question": "Quel est le nom du langage utilisé pour automatiser des tâches dans les systèmes Unix ?",
+        "correct_answer": "Bash",
+        "incorrect_answers": ["PowerShell", "Perl"]
+    },
+    {
+        "question": "Quel est le nom de la technologie qui permet de créer des applications multiplateformes ?",
+        "correct_answer": "Flutter",
+        "incorrect_answers": ["React Native", "Xamarin"]
+    },
+    {
+        "question": "Quel est le nom du premier antivirus commercialisé ?",
+        "correct_answer": "Norton AntiVirus",
+        "incorrect_answers": ["McAfee", "Kaspersky"]
+    },
+    {
+        "question": "Quel est le protocole utilisé pour synchroniser les horloges des ordinateurs ?",
+        "correct_answer": "NTP",
+        "incorrect_answers": ["SNTP", "PTP"]
+    },
+    {
+        "question": "Quel est le nom du langage utilisé pour les shaders dans les jeux vidéo ?",
+        "correct_answer": "GLSL",
+        "incorrect_answers": ["HLSL", "CG"]
+    },
+    {
+        "question": "Quel est le terme pour un logiciel qui gère les ressources d’un ordinateur ?",
+        "correct_answer": "Système d’exploitation",
+        "incorrect_answers": ["Middleware", "Firmware"]
+    },
+    {
+        "question": "Quel est le nom de la première plateforme de cloud computing ?",
+        "correct_answer": "Amazon AWS",
+        "incorrect_answers": ["Microsoft Azure", "Google Cloud"]
+    },
+    {
+        "question": "Quel est le protocole utilisé pour sécuriser les connexions Wi-Fi ?",
+        "correct_answer": "WPA3",
+        "incorrect_answers": ["WEP", "WPA2"]
+    },
+    {
+        "question": "Quel est le nom du langage utilisé pour les applications de bureau multiplateformes ?",
+        "correct_answer": "Qt",
+        "incorrect_answers": ["GTK", "Electron"]
+    },
+    {
+        "question": "Quel est le terme pour un logiciel qui simule un matériel spécifique ?",
+        "correct_answer": "Émulateur",
+        "incorrect_answers": ["Simulateur", "Hyperviseur"]
+    },
+    {
+        "question": "Quel est le nom du premier logiciel de gestion de projet agile ?",
+        "correct_answer": "Jira",
+        "incorrect_answers": ["Trello", "Asana"]
+    },
+    {
+        "question": "Quel est le protocole utilisé pour la gestion des réseaux ?",
+        "correct_answer": "SNMP",
+        "incorrect_answers": ["ICMP", "BGP"]
+    },
+    {
+        "question": "Quel est le nom du langage utilisé pour les systèmes embarqués ?",
+        "correct_answer": "C",
+        "incorrect_answers": ["Python", "Java"]
+    },
+    {
+        "question": "Quel est le terme pour une technologie qui distribue les calculs sur plusieurs ordinateurs ?",
+        "correct_answer": "Calcul distribué",
+        "incorrect_answers": ["Calcul parallèle", "Cloud computing"]
+    },
+    {
+        "question": "Quel est le nom de la première plateforme de streaming vidéo ?",
+        "correct_answer": "YouTube",
+        "incorrect_answers": ["Netflix", "Vimeo"]
+    },
+    {
+        "question": "Quel est le protocole utilisé pour la gestion des certificats SSL ?",
+        "correct_answer": "TLS",
+        "incorrect_answers": ["SSL", "DTLS"]
+    },
+    {
+        "question": "Quel est le nom du langage utilisé pour les simulations scientifiques ?",
+        "correct_answer": "MATLAB",
+        "incorrect_answers": ["R", "Julia"]
+    },
+    {
+        "question": "Quel est le terme pour un logiciel qui protège contre les intrusions ?",
+        "correct_answer": "Pare-feu",
+        "incorrect_answers": ["Antivirus", "IDS"]
+    },
+    {
+        "question": "Quel est le nom du premier jeu vidéo commercialisé, sorti en 1972 ?",
+        "correct_answer": "Pong",
+        "incorrect_answers": ["Space Invaders", "Tetris"]
+    },
+    {
+        "question": "Quel studio a développé la série 'The Legend of Zelda' ?",
+        "correct_answer": "Nintendo",
+        "incorrect_answers": ["Square Enix", "Capcom"]
+    },
+    {
+        "question": "Dans quel jeu trouve-t-on le personnage principal nommé Master Chief ?",
+        "correct_answer": "Halo",
+        "incorrect_answers": ["Gears of War", "Destiny"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a créé 'The Witcher 3 : Wild Hunt' ?",
+        "correct_answer": "CD Projekt Red",
+        "incorrect_answers": ["BioWare", "Bethesda"]
+    },
+    {
+        "question": "Quel jeu est considéré comme le pionnier du genre Battle Royale ?",
+        "correct_answer": "PlayerUnknown's Battlegrounds",
+        "incorrect_answers": ["Fortnite", "Apex Legends"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de la série 'Metal Gear Solid' ?",
+        "correct_answer": "Solid Snake",
+        "incorrect_answers": ["Big Boss", "Raiden"]
+    },
+    {
+        "question": "Quel est le premier jeu de la série 'Final Fantasy' sorti en 1987 ?",
+        "correct_answer": "Final Fantasy",
+        "incorrect_answers": ["Final Fantasy II", "Final Fantasy III"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a développé 'Grand Theft Auto V' ?",
+        "correct_answer": "Rockstar North",
+        "incorrect_answers": ["Rockstar San Diego", "Ubisoft Montreal"]
+    },
+    {
+        "question": "Dans quel jeu vidéo trouve-t-on le monde fictif de Hyrule ?",
+        "correct_answer": "The Legend of Zelda",
+        "incorrect_answers": ["Fire Emblem", "Xenoblade Chronicles"]
+    },
+    {
+        "question": "Quel est le nom du premier jeu de la série 'Resident Evil' sorti en 1996 ?",
+        "correct_answer": "Resident Evil",
+        "incorrect_answers": ["Resident Evil 2", "Resident Evil 3"]
+    },
+    {
+        "question": "Quel est le nom du moteur de jeu utilisé pour 'The Elder Scrolls V: Skyrim' ?",
+        "correct_answer": "Creation Engine",
+        "incorrect_answers": ["Unreal Engine", "Frostbite"]
+    },
+    {
+        "question": "Quel jeu a popularisé le genre des jeux de rythme avec des tapis de danse ?",
+        "correct_answer": "Dance Dance Revolution",
+        "incorrect_answers": ["Guitar Hero", "Beatmania"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Tomb Raider' ?",
+        "correct_answer": "Lara Croft",
+        "incorrect_answers": ["Jill Valentine", "Samus Aran"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a créé 'Minecraft' ?",
+        "correct_answer": "Mojang",
+        "incorrect_answers": ["Epic Games", "Valve"]
+    },
+    {
+        "question": "Quel jeu est connu pour avoir introduit le concept de 'monde ouvert' en 1986 ?",
+        "correct_answer": "The Legend of Zelda",
+        "incorrect_answers": ["Metroid", "Dragon Quest"]
+    },
+    {
+        "question": "Quel est le nom du protagoniste de la série 'Assassin’s Creed' dans le premier jeu ?",
+        "correct_answer": "Altaïr Ibn-La’Ahad",
+        "incorrect_answers": ["Ezio Auditore", "Connor Kenway"]
+    },
+    {
+        "question": "Quel est le nom du jeu de stratégie en temps réel sorti en 1994 par Blizzard ?",
+        "correct_answer": "Warcraft: Orcs & Humans",
+        "incorrect_answers": ["StarCraft", "Diablo"]
+    },
+    {
+        "question": "Quel est le nom de la console portable de Nintendo sortie en 1989 ?",
+        "correct_answer": "Game Boy",
+        "incorrect_answers": ["Game Gear", "Lynx"]
+    },
+    {
+        "question": "Quel jeu a introduit le personnage de Mario en 1981 ?",
+        "correct_answer": "Donkey Kong",
+        "incorrect_answers": ["Super Mario Bros.", "Mario Kart"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a développé 'Portal' ?",
+        "correct_answer": "Valve",
+        "incorrect_answers": ["Bethesda", "id Software"]
+    },
+    {
+        "question": "Quel est le genre principal du jeu 'Among Us' ?",
+        "correct_answer": "Déduction sociale",
+        "incorrect_answers": ["Battle Royale", "MMORPG"]
+    },
+    {
+        "question": "Quel est le nom du premier jeu de la série 'Pokémon' sorti en 1996 au Japon ?",
+        "correct_answer": "Pokémon Rouge et Vert",
+        "incorrect_answers": ["Pokémon Bleu", "Pokémon Jaune"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Half-Life' ?",
+        "correct_answer": "Gordon Freeman",
+        "incorrect_answers": ["Alyx Vance", "Barney Calhoun"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a créé 'Dark Souls' ?",
+        "correct_answer": "FromSoftware",
+        "incorrect_answers": ["Team Ninja", "PlatinumGames"]
+    },
+    {
+        "question": "Quel est le nom de la première console de Sony, sortie en 1994 ?",
+        "correct_answer": "PlayStation",
+        "incorrect_answers": ["Sega Saturn", "Nintendo 64"]
+    },
+    {
+        "question": "Quel jeu a popularisé le genre 'MOBA' ?",
+        "correct_answer": "Defense of the Ancients",
+        "incorrect_answers": ["League of Legends", "Dota 2"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Metroid' ?",
+        "correct_answer": "Samus Aran",
+        "incorrect_answers": ["Zelda", "Peach"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a développé 'Overwatch' ?",
+        "correct_answer": "Blizzard Entertainment",
+        "incorrect_answers": ["Activision", "EA Sports"]
+    },
+    {
+        "question": "Quel est le nom du jeu sorti en 1985 qui met en scène Mario et Luigi ?",
+        "correct_answer": "Super Mario Bros.",
+        "incorrect_answers": ["Mario Bros.", "Super Mario World"]
+    },
+    {
+        "question": "Quel est le nom du moteur de jeu utilisé pour 'Fortnite' ?",
+        "correct_answer": "Unreal Engine",
+        "incorrect_answers": ["Unity", "CryEngine"]
+    },
+    {
+        "question": "Quel est le nom du jeu de simulation de vie créé par Will Wright en 2000 ?",
+        "correct_answer": "The Sims",
+        "incorrect_answers": ["SimCity", "Spore"]
+    },
+    {
+        "question": "Quel est le nom du protagoniste de 'Red Dead Redemption' ?",
+        "correct_answer": "John Marston",
+        "incorrect_answers": ["Arthur Morgan", "Dutch van der Linde"]
+    },
+    {
+        "question": "Quel est le nom de la console de Microsoft sortie en 2001 ?",
+        "correct_answer": "Xbox",
+        "incorrect_answers": ["PlayStation 2", "GameCube"]
+    },
+    {
+        "question": "Quel est le nom du jeu de course emblématique de Nintendo sorti en 1992 ?",
+        "correct_answer": "Super Mario Kart",
+        "incorrect_answers": ["F-Zero", "Wave Race"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a créé 'Cyberpunk 2077' ?",
+        "correct_answer": "CD Projekt Red",
+        "incorrect_answers": ["Obsidian Entertainment", "Larian Studios"]
+    },
+    {
+        "question": "Quel est le nom du jeu de tir à la première personne sorti en 1993 par id Software ?",
+        "correct_answer": "Doom",
+        "incorrect_answers": ["Quake", "Wolfenstein 3D"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Kingdom Hearts' ?",
+        "correct_answer": "Sora",
+        "incorrect_answers": ["Riku", "Kairi"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a développé 'God of War' (2018) ?",
+        "correct_answer": "Santa Monica Studio",
+        "incorrect_answers": ["Naughty Dog", "Guerrilla Games"]
+    },
+    {
+        "question": "Quel est le nom du jeu de stratégie sorti en 1991 par Sid Meier ?",
+        "correct_answer": "Civilization",
+        "incorrect_answers": ["Age of Empires", "Command & Conquer"]
+    },
+    {
+        "question": "Quel est le nom de la première console portable de Sega ?",
+        "correct_answer": "Game Gear",
+        "incorrect_answers": ["Nomad", "Lynx"]
+    },
+    {
+        "question": "Quel est le nom du jeu de combat sorti en 1991 par Capcom ?",
+        "correct_answer": "Street Fighter II",
+        "incorrect_answers": ["Mortal Kombat", "Tekken"]
+    },
+    {
+        "question": "Quel est le nom du protagoniste de 'BioShock' ?",
+        "correct_answer": "Jack",
+        "incorrect_answers": ["Booker DeWitt", "Andrew Ryan"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a créé 'Team Fortress 2' ?",
+        "correct_answer": "Valve",
+        "incorrect_answers": ["Respawn Entertainment", "Bungie"]
+    },
+    {
+        "question": "Quel est le nom du jeu de puzzle sorti en 1984 par Alexey Pajitnov ?",
+        "correct_answer": "Tetris",
+        "incorrect_answers": ["Puyo Puyo", "Columns"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Star Fox' ?",
+        "correct_answer": "Fox McCloud",
+        "incorrect_answers": ["Falco Lombardi", "Slippy Toad"]
+    },
+    {
+        "question": "Quel est le nom du jeu de rôle sorti en 1997 par Square ?",
+        "correct_answer": "Final Fantasy VII",
+        "incorrect_answers": ["Chrono Trigger", "Xenogears"]
+    },
+    {
+        "question": "Quel est le nom de la console de Nintendo sortie en 2006 ?",
+        "correct_answer": "Wii",
+        "incorrect_answers": ["Nintendo DS", "GameCube"]
+    },
+    {
+        "question": "Quel est le nom du jeu de tir sorti en 2007 par Bungie ?",
+        "correct_answer": "Halo 3",
+        "incorrect_answers": ["Call of Duty 4", "Gears of War"]
+    },
+    {
+        "question": "Quel est le nom du protagoniste de 'Mass Effect' ?",
+        "correct_answer": "Commandant Shepard",
+        "incorrect_answers": ["Garrus Vakarian", "Liara T’Soni"]
+    },
+    {
+        "question": "Quel est le nom du jeu de survie sorti en 2013 par Klei Entertainment ?",
+        "correct_answer": "Don’t Starve",
+        "incorrect_answers": ["Oxygen Not Included", "The Long Dark"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Splatoon' ?",
+        "correct_answer": "Inkling",
+        "incorrect_answers": ["Octoling", "Callie"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a développé 'Bloodborne' ?",
+        "correct_answer": "FromSoftware",
+        "incorrect_answers": ["Team Ninja", "Capcom"]
+    },
+    {
+        "question": "Quel est le nom du jeu de plateforme sorti en 1987 par Sega ?",
+        "correct_answer": "Sonic the Hedgehog",
+        "incorrect_answers": ["Alex Kidd", "Wonder Boy"]
+    },
+    {
+        "question": "Quel est le nom de la console portable de Sony sortie en 2004 ?",
+        "correct_answer": "PlayStation Portable",
+        "incorrect_answers": ["PS Vita", "Nintendo DS"]
+    },
+    {
+        "question": "Quel est le nom du jeu de gestion sorti en 1989 par Maxis ?",
+        "correct_answer": "SimCity",
+        "incorrect_answers": ["The Sims", "Cities: Skylines"]
+    },
+    {
+        "question": "Quel est le nom du protagoniste de 'Dishonored' ?",
+        "correct_answer": "Corvo Attano",
+        "incorrect_answers": ["Emily Kaldwin", "Daud"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a créé 'Counter-Strike' ?",
+        "correct_answer": "Valve",
+        "incorrect_answers": ["id Software", "Epic Games"]
+    },
+    {
+        "question": "Quel est le nom du jeu de course sorti en 1997 par Sony ?",
+        "correct_answer": "Gran Turismo",
+        "incorrect_answers": ["Wipeout", "Ridge Racer"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Fire Emblem: Three Houses' ?",
+        "correct_answer": "Byleth",
+        "incorrect_answers": ["Edelgard", "Dimitri"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a développé 'Sekiro: Shadows Die Twice' ?",
+        "correct_answer": "FromSoftware",
+        "incorrect_answers": ["Team Ninja", "PlatinumGames"]
+    },
+    {
+        "question": "Quel est le nom du jeu de tir sorti en 1998 par Nintendo ?",
+        "correct_answer": "Star Fox 64",
+        "incorrect_answers": ["GoldenEye 007", "Perfect Dark"]
+    },
+    {
+        "question": "Quel est le nom de la console de Sega sortie en 1998 ?",
+        "correct_answer": "Dreamcast",
+        "incorrect_answers": ["Saturn", "Genesis"]
+    },
+    {
+        "question": "Quel est le nom du jeu de puzzle sorti en 1994 par Nintendo ?",
+        "correct_answer": "Tetris Attack",
+        "incorrect_answers": ["Dr. Mario", "Panel de Pon"]
+    },
+    {
+        "question": "Quel est le nom du protagoniste de 'Xenoblade Chronicles' ?",
+        "correct_answer": "Shulk",
+        "incorrect_answers": ["Rex", "Noah"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a créé 'Spider-Man' (2018) ?",
+        "correct_answer": "Insomniac Games",
+        "incorrect_answers": ["Sucker Punch", "Santa Monica Studio"]
+    },
+    {
+        "question": "Quel est le nom du jeu de stratégie sorti en 1998 par Blizzard ?",
+        "correct_answer": "StarCraft",
+        "incorrect_answers": ["Warcraft III", "Command & Conquer"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Bayonetta' ?",
+        "correct_answer": "Bayonetta",
+        "incorrect_answers": ["Jeanne", "Cereza"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a développé 'Ghost of Tsushima' ?",
+        "correct_answer": "Sucker Punch",
+        "incorrect_answers": ["Guerrilla Games", "Naughty Dog"]
+    },
+    {
+        "question": "Quel est le nom du jeu de combat sorti en 1999 par Namco ?",
+        "correct_answer": "Soulcalibur",
+        "incorrect_answers": ["Tekken 3", "Dead or Alive"]
+    },
+    {
+        "question": "Quel est le nom du protagoniste de 'Persona 5' ?",
+        "correct_answer": "Joker",
+        "incorrect_answers": ["Makoto", "Ryuji"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a créé 'Death Stranding' ?",
+        "correct_answer": "Kojima Productions",
+        "incorrect_answers": ["Square Enix", "Capcom"]
+    },
+    {
+        "question": "Quel est le nom du jeu de tir sorti en 2004 par Valve ?",
+        "correct_answer": "Half-Life 2",
+        "incorrect_answers": ["Counter-Strike: Source", "Left 4 Dead"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Animal Crossing' ?",
+        "correct_answer": "Villageois",
+        "incorrect_answers": ["Tom Nook", "Isabelle"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a développé 'Elden Ring' ?",
+        "correct_answer": "FromSoftware",
+        "incorrect_answers": ["Bandai Namco", "Square Enix"]
+    },
+    {
+        "question": "Quel est le nom du jeu de plateforme sorti en 1996 par Nintendo ?",
+        "correct_answer": "Super Mario 64",
+        "incorrect_answers": ["Banjo-Kazooie", "Crash Bandicoot"]
+    },
+    {
+        "question": "Quel est le nom de la console de Microsoft sortie en 2013 ?",
+        "correct_answer": "Xbox One",
+        "incorrect_answers": ["Xbox 360", "PlayStation 4"]
+    },
+    {
+        "question": "Quel est le nom du jeu de survie sorti en 2017 par Epic Games ?",
+        "correct_answer": "Fortnite",
+        "incorrect_answers": ["PUBG", "Apex Legends"]
+    },
+    {
+        "question": "Quel est le nom du protagoniste de 'Control' ?",
+        "correct_answer": "Jesse Faden",
+        "incorrect_answers": ["Max Caulfield", "Ellie"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a créé 'The Last of Us' ?",
+        "correct_answer": "Naughty Dog",
+        "incorrect_answers": ["Santa Monica Studio", "Guerrilla Games"]
+    },
+    {
+        "question": "Quel est le nom du jeu de puzzle sorti en 2007 par Valve ?",
+        "correct_answer": "Portal",
+        "incorrect_answers": ["Braid", "World of Goo"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Kirby' ?",
+        "correct_answer": "Kirby",
+        "incorrect_answers": ["King Dedede", "Meta Knight"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a développé 'Monster Hunter' ?",
+        "correct_answer": "Capcom",
+        "incorrect_answers": ["Bandai Namco", "Square Enix"]
+    },
+    {
+        "question": "Quel est le nom du jeu de course sorti en 2008 par Nintendo ?",
+        "correct_answer": "Mario Kart Wii",
+        "incorrect_answers": ["F-Zero GX", "Wipeout HD"]
+    },
+    {
+        "question": "Quel est le nom du protagoniste de 'Dragon Quest XI' ?",
+        "correct_answer": "Luminaire",
+        "incorrect_answers": ["Hero", "Erik"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a créé 'Destiny' ?",
+        "correct_answer": "Bungie",
+        "incorrect_answers": ["Respawn Entertainment", "Infinity Ward"]
+    },
+    {
+        "question": "Quel est le nom du jeu de tir sorti en 1997 par Rare ?",
+        "correct_answer": "GoldenEye 007",
+        "incorrect_answers": ["Perfect Dark", "Turok"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Luigi’s Mansion' ?",
+        "correct_answer": "Luigi",
+        "incorrect_answers": ["Mario", "Waluigi"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a développé 'Diablo' ?",
+        "correct_answer": "Blizzard Entertainment",
+        "incorrect_answers": ["BioWare", "Obsidian Entertainment"]
+    },
+    {
+        "question": "Quel est le nom du jeu de plateforme sorti en 2002 par Ubisoft ?",
+        "correct_answer": "Rayman 3: Hoodlum Havoc",
+        "incorrect_answers": ["Prince of Persia", "Beyond Good & Evil"]
+    },
+    {
+        "question": "Quel est le nom du protagoniste de 'Nier: Automata' ?",
+        "correct_answer": "2B",
+        "incorrect_answers": ["9S", "A2"]
+    },
+    {
+        "question": "Quel est le nom du studio qui a créé 'Rocket League' ?",
+        "correct_answer": "Psyonix",
+        "incorrect_answers": ["Epic Games", "Supercell"]
+    },
+    {
+        "question": "Quel est le nom du jeu de combat sorti en 2015 par Bandai Namco ?",
+        "correct_answer": "Tekken 7",
+        "incorrect_answers": ["Street Fighter V", "Soulcalibur VI"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Yoshi’s Island' ?",
+        "correct_answer": "Yoshi",
+        "incorrect_answers": ["Baby Mario", "Toad"]
+    },
+    {
+        "question": "Quel est le nom du manga le plus vendu au monde, créé par Eiichiro Oda ?",
+        "correct_answer": "One Piece",
+        "incorrect_answers": ["Naruto", "Dragon Ball"]
+    },
+    {
+        "question": "Quel mangaka est connu pour avoir créé 'Dragon Ball' ?",
+        "correct_answer": "Akira Toriyama",
+        "incorrect_answers": ["Masashi Kishimoto", "Tetsuya Nomura"]
+    },
+    {
+        "question": "Dans quel manga trouve-t-on le personnage principal Naruto Uzumaki ?",
+        "correct_answer": "Naruto",
+        "incorrect_answers": ["Bleach", "Fairy Tail"]
+    },
+    {
+        "question": "Quel est le nom du mangaka qui a créé 'Attack on Titan' ?",
+        "correct_answer": "Hajime Isayama",
+        "incorrect_answers": ["Tetsuo Hara", "Naoki Urasawa"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Death Note' ?",
+        "correct_answer": "Light Yagami",
+        "incorrect_answers": ["L Lawliet", "Ryuk"]
+    },
+    {
+        "question": "Dans quel manga les personnages utilisent-ils des 'Stands' comme pouvoirs ?",
+        "correct_answer": "JoJo’s Bizarre Adventure",
+        "incorrect_answers": ["Hunter x Hunter", "Yu Yu Hakusho"]
+    },
+    {
+        "question": "Quel est le nom du mangaka qui a créé 'Fullmetal Alchemist' ?",
+        "correct_answer": "Hiromu Arakawa",
+        "incorrect_answers": ["Rumiko Takahashi", "Yoshihiro Togashi"]
+    },
+    {
+        "question": "Quel manga suit les aventures de Gon Freecss, un jeune chasseur ?",
+        "correct_answer": "Hunter x Hunter",
+        "incorrect_answers": ["My Hero Academia", "Black Clover"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Tokyo Revengers' ?",
+        "correct_answer": "Takemichi Hanagaki",
+        "incorrect_answers": ["Manjiro Sano", "Ken Ryuguji"]
+    },
+    {
+        "question": "Quel est le genre principal du manga 'Sailor Moon' ?",
+        "correct_answer": "Magical Girl",
+        "incorrect_answers": ["Shonen", "Seinen"]
+    },
+    {
+        "question": "Quel mangaka est connu pour avoir créé 'Berserk' ?",
+        "correct_answer": "Kentaro Miura",
+        "incorrect_answers": ["Takehiko Inoue", "Tite Kubo"]
+    },
+    {
+        "question": "Dans quel manga trouve-t-on le personnage principal Ichigo Kurosaki ?",
+        "correct_answer": "Bleach",
+        "incorrect_answers": ["One Piece", "Naruto"]
+    },
+    {
+        "question": "Quel est le nom du mangaka qui a créé 'My Hero Academia' ?",
+        "correct_answer": "Kohei Horikoshi",
+        "incorrect_answers": ["Gege Akutami", "Koyoharu Gotouge"]
+    },
+    {
+        "question": "Quel manga suit les aventures d’Emma, Norman et Ray dans un orphelinat mystérieux ?",
+        "correct_answer": "The Promised Neverland",
+        "incorrect_answers": ["Erased", "Made in Abyss"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Fairy Tail' ?",
+        "correct_answer": "Natsu Dragneel",
+        "incorrect_answers": ["Gray Fullbuster", "Erza Scarlet"]
+    },
+    {
+        "question": "Quel est le nom du mangaka qui a créé 'Neon Genesis Evangelion' (manga) ?",
+        "correct_answer": "Yoshiyuki Sadamoto",
+        "incorrect_answers": ["Hideaki Anno", "Shinji Higuchi"]
+    },
+    {
+        "question": "Dans quel manga les personnages participent-ils à un tournoi appelé 'Dark Tournament' ?",
+        "correct_answer": "Yu Yu Hakusho",
+        "incorrect_answers": ["Hunter x Hunter", "Dragon Ball Z"]
+    },
+    {
+        "question": "Quel est le nom du manga créé par Naoko Takeuchi ?",
+        "correct_answer": "Sailor Moon",
+        "incorrect_answers": ["Cardcaptor Sakura", "Magic Knight Rayearth"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Demon Slayer' ?",
+        "correct_answer": "Tanjiro Kamado",
+        "incorrect_answers": ["Nezuko Kamado", "Inosuke Hashibira"]
+    },
+    {
+        "question": "Quel mangaka est connu pour avoir créé 'Vagabond' ?",
+        "correct_answer": "Takehiko Inoue",
+        "incorrect_answers": ["Kentaro Miura", "Naoki Urasawa"]
+    },
+    {
+        "question": "Quel est le nom du manga qui suit les aventures de Gintoki Sakata dans un Japon alternatif ?",
+        "correct_answer": "Gintama",
+        "incorrect_answers": ["Samurai Champloo", "Rurouni Kenshin"]
+    },
+    {
+        "question": "Quel est le nom du personnage principal de 'Jujutsu Kaisen' ?",
+        "correct_answer": "Yuji Itadori",
+        "incorrect_answers": ["Megumi Fushiguro", "Satoru Gojo"]
+    },
+    {
+        "question": "Quel manga est connu pour son style réaliste et son exploration de la psychologie humaine, créé par Naoki Urasawa ?",
+        "correct_answer": "Monster",
+        "incorrect_answers": ["20th Century Boys", "Pluto"]
+    },
+    {
+        "question": "Quel est le nom du mangaka qui a créé 'Inuyasha' ?",
+        "correct_answer": "Rumiko Takahashi",
+        "incorrect_answers": ["CLAMP", "Tetsuya Nomura"]
+    },
+    {
+        "question": "Quel est le nom du manga qui suit les aventures de Asta, un jeune garçon sans magie ?",
+        "correct_answer": "Black Clover",
+        "incorrect_answers": ["Blue Exorcist", "Dr. Stone"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant, sorti en 2012, met en scène un journaliste explorant un asile abandonné ?",
+        "correct_answer": "Outlast",
+        "incorrect_answers": ["Amnesia: The Dark Descent", "Dead Space"]
+    },
+    {
+        "question": "Quel est le nom du développeur principal du jeu 'Amnesia: The Dark Descent' ?",
+        "correct_answer": "Frictional Games",
+        "incorrect_answers": ["Supermassive Games", "Red Barrels"]
+    },
+    {
+        "question": "Dans quel jeu d’horreur indépendant joue-t-on un enfant explorant une maison hantée avec un ours en peluche ?",
+        "correct_answer": "Mr. Hoppity’s Playhouse",
+        "incorrect_answers": ["Little Nightmares", "Among the Sleep"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant de 2015 est connu pour ses mécaniques de 'point-and-click' et son ambiance rétro ?",
+        "correct_answer": "Five Nights at Freddy’s",
+        "incorrect_answers": ["Slender: The Arrival", "Until Dawn"]
+    },
+    {
+        "question": "Quel est le nom du monstre principal dans 'Slender: The Eight Pages' ?",
+        "correct_answer": "Slenderman",
+        "incorrect_answers": ["The Rake", "Jeff the Killer"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant utilise des enquêtes paranormales dans une maison hantée avec une caméra ?",
+        "correct_answer": "Phasmophobia",
+        "incorrect_answers": ["Dead by Daylight", "Layers of Fear"]
+    },
+    {
+        "question": "Quel est le nom du développeur du jeu 'Fears to Fathom' ?",
+        "correct_answer": "Rayll",
+        "incorrect_answers": ["Puppet Combo", "Chilla’s Art"]
+    },
+    {
+        "question": "Dans quel jeu d’horreur indépendant de 2019 joue-t-on un employé de bureau répondant à un questionnaire effrayant ?",
+        "correct_answer": "Please Answer Carefully",
+        "incorrect_answers": ["Start Survey", "Be Honest"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant japonais est connu pour son esthétique VHS et son ambiance de bain public hanté ?",
+        "correct_answer": "The Bathhouse",
+        "incorrect_answers": ["Corpse Party", "Ib"]
+    },
+    {
+        "question": "Quel est le nom du jeu d’horreur indépendant où le joueur explore une maison en tissu étrange ?",
+        "correct_answer": "A Girl’s Fabric Face",
+        "incorrect_answers": ["Contemp", "It Lies"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant de 2017 met en scène une journaliste piégée dans une maison avec une IA malveillante ?",
+        "correct_answer": "Hello Neighbor",
+        "incorrect_answers": ["Soma", "Observer"]
+    },
+    {
+        "question": "Quel est le nom du développeur de ‘Dead Plate’, un jeu d’horreur culinaire indépendant ?",
+        "correct_answer": "Studio Investigrave",
+        "incorrect_answers": ["Team Salvato", "Scott Cawthon"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant utilise une mécanique de ‘visual novel’ avec des choix moraux effrayants ?",
+        "correct_answer": "Doki Doki Literature Club",
+        "incorrect_answers": ["Hatoful Boyfriend", "The Letter"]
+    },
+    {
+        "question": "Quel est le nom du jeu d’horreur indépendant où le joueur est poursuivi par une poupée dans un manoir ?",
+        "correct_answer": "Spooky’s Jump Scare Mansion",
+        "incorrect_answers": ["Emily Wants to Play", "Poppy Playtime"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant de 2020 permet aux joueurs de collaborer pour identifier des fantômes ?",
+        "correct_answer": "Phasmophobia",
+        "incorrect_answers": ["Devour", "Pacify"]
+    },
+    {
+        "question": "Quel est le nom du développeur japonais connu pour des jeux d’horreur comme ‘The Convenience Store’ ?",
+        "correct_answer": "Chilla’s Art",
+        "incorrect_answers": ["Kojima Productions", "Yomawari"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant est basé sur un creepypasta impliquant un jeu vidéo maudit ?",
+        "correct_answer": "Ben Drowned",
+        "incorrect_answers": ["Sonic.EXE", "Petscop"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant de 2018 explore les thèmes de la dépression et de l’isolement ?",
+        "correct_answer": "Omori",
+        "incorrect_answers": ["Gris", "Celeste"]
+    },
+    {
+        "question": "Quel est le nom du jeu d’horreur indépendant où le joueur répond à un sondage qui devient de plus en plus inquiétant ?",
+        "correct_answer": "Start Survey",
+        "incorrect_answers": ["Be Honest", "Please Answer Carefully"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant met en scène une exploration de catacombes avec des créatures cauchemardesques ?",
+        "correct_answer": "Faith: The Unholy Trinity",
+        "incorrect_answers": ["Bloodwash", "Iron Lung"]
+    },
+    {
+        "question": "Quel est le nom du développeur de ‘Tattletail’, un jeu d’horreur avec une poupée parlante ?",
+        "correct_answer": "Waygetter Electronics",
+        "incorrect_answers": ["Puppet Combo", "Frictional Games"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant utilise une esthétique PS1 et un cadre scolaire hanté ?",
+        "correct_answer": "Lost in Vivo",
+        "incorrect_answers": ["Paratopic", "Anatomy"]
+    },
+    {
+        "question": "Quel est le nom du jeu d’horreur indépendant où le joueur est piégé dans une boucle temporelle dans un diner ?",
+        "correct_answer": "Alone in the Diner",
+        "incorrect_answers": ["The Closing Shift", "Night Delivery"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant de 2013 est connu pour son ambiance forestière et son monstre sans visage ?",
+        "correct_answer": "Slender: The Arrival",
+        "incorrect_answers": ["Cry of Fear", "Imscared"]
+    },
+    {
+        "question": "Quel est le nom du développeur de ‘Iron Lung’, un jeu d’horreur sous-marin oppressant ?",
+        "correct_answer": "David Szymanski",
+        "incorrect_answers": ["Toby Fox", "Lucas Pope"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant utilise des mécaniques de gestion de ressources dans un hôpital abandonné ?",
+        "correct_answer": "Cry of Fear",
+        "incorrect_answers": ["Outlast", "Dead Space"]
+    },
+    {
+        "question": "Quel est le nom du jeu d’horreur indépendant où le joueur explore un musée hanté ?",
+        "correct_answer": "Ib",
+        "incorrect_answers": ["Mad Father", "Misao"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant de 2016 est centré sur une poupée vivante dans une maison abandonnée ?",
+        "correct_answer": "Emily Wants to Play",
+        "incorrect_answers": ["Poppy Playtime", "Spooky’s Jump Scare Mansion"]
+    },
+    {
+        "question": "Quel est le nom du développeur de ‘Bloodwash’, un jeu d’horreur avec une esthétique de film de série B ?",
+        "correct_answer": "Puppet Combo",
+        "incorrect_answers": ["Chilla’s Art", "Scott Cawthon"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant explore les thèmes de la culpabilité et de la religion à travers des exorcismes ?",
+        "correct_answer": "Faith: The Unholy Trinity",
+        "incorrect_answers": ["The Mortuary Assistant", "Devour"]
+    },
+    {
+        "question": "Quel est le nom du jeu d’horreur indépendant où le joueur est un employé de magasin confronté à des événements surnaturels ?",
+        "correct_answer": "The Convenience Store",
+        "incorrect_answers": ["Night Shift", "The Closing Shift"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant de 2014 est connu pour son ambiance minimaliste et ses jumpscares ?",
+        "correct_answer": "Imscared",
+        "incorrect_answers": ["Paratopic", "Anatomy"]
+    },
+    {
+        "question": "Quel est le nom du développeur de ‘Anatomy’, un jeu d’horreur centré sur une maison consciente ?",
+        "correct_answer": "Kitty Horrorshow",
+        "incorrect_answers": ["Puppet Combo", "Frictional Games"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant met en scène un employé de morgue confronté à des événements paranormaux ?",
+        "correct_answer": "The Mortuary Assistant",
+        "incorrect_answers": ["Phasmophobia", "Pacify"]
+    },
+    {
+        "question": "Quel est le nom du jeu d’horreur indépendant où le joueur explore un monde inspiré du folklore japonais ?",
+        "correct_answer": "Yomawari: Night Alone",
+        "incorrect_answers": ["Corpse Party", "The Bathhouse"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant de 2018 utilise une narration non linéaire et une esthétique rétro ?",
+        "correct_answer": "Paratopic",
+        "incorrect_answers": ["Lost in Vivo", "Imscared"]
+    },
+    {
+        "question": "Quel est le nom du développeur de ‘Mad Father’, un jeu d’horreur RPG Maker ?",
+        "correct_answer": "Sen",
+        "incorrect_answers": ["Kouri", "Chilla’s Art"]
+    },
+    {
+        "question": "Quel jeu d’horreur indépendant utilise une mécanique de 'survie' dans un monde ouvert rempli de monstres ?",
+        "correct_answer": "The Forest",
+    "incorrect_answers": ["Don't Starve", "Green Hell"]
+    },
+    {
+        "question": "Quel est le nom du jeu d’horreur indépendant où le joueur doit résoudre des énigmes dans un manoir hanté ?",
+        "correct_answer": "Mad Father",
+        "incorrect_answers": ["Ib", "Yomawari"]
+    },
+    {
+        "question": "Quel est le nom du jeu d’horreur indépendant où le joueur doit échapper à un tueur en série dans un centre commercial ?",
+        "correct_answer": "The Closing Shift",
+        "incorrect_answers": ["Night Delivery", "The Convenience Store"]
+    },
+    {
+        "question": "Quel est le nom du jeu d’horreur indépendant où le joueur doit survivre à une nuit dans une maison hantée avec des poupées ?",
+        "correct_answer": "Poppy Playtime",
+        "incorrect_answers": ["Emily Wants to Play", "Spooky’s Jump Scare Mansion"]
+    },
+    {
+        "question": "Quel est le nom du créateur de la série *Five Nights at Freddy’s* ?",
+        "correct_answer": "Scott Cawthon",
+        "incorrect_answers": ["Toby Fox", "Puppet Combo"]
+    },
+    {
+        "question": "Dans *Five Nights at Freddy’s 1*, quel animatronique est le seul à ne pas passer par la porte droite ?",
+        "correct_answer": "Foxy",
+        "incorrect_answers": ["Freddy", "Chica"]
+    },
+    {
+        "question": "Quel est le nom de l’enfant dont l’âme est supposée posséder Golden Freddy selon le lore ?",
+        "correct_answer": "Cassidy",
+        "incorrect_answers": ["Gabriel", "Jeremy"]
+    },
+    {
+        "question": "Dans *Five Nights at Freddy’s 2*, quel animatronique est responsable de l’attaque appelée 'The Bite of ’87' ?",
+        "correct_answer": "Mangle",
+        "incorrect_answers": ["Toy Bonnie", "Withered Freddy"]
+    },
+    {
+        "question": "Quel est le nom du protagoniste principal jouable dans *Five Nights at Freddy’s 3* ?",
+        "correct_answer": "Springtrap",
+        "incorrect_answers": ["Michael Afton", "William Afton"]
+    },
+    {
+        "question": "Dans *Five Nights at Freddy’s: Sister Location*, quel animatronique est formé par la fusion de plusieurs autres ?",
+        "correct_answer": "Ennard",
+        "incorrect_answers": ["Circus Baby", "Ballora"]
+    },
+    {
+        "question": "Quel est le nom de la pizzeria fictive dans *Five Nights at Freddy’s: Pizzeria Simulator* ?",
+        "correct_answer": "Freddy Fazbear’s Pizza Place",
+        "incorrect_answers": ["Circus Baby’s Pizza World", "Fredbear’s Family Diner"]
+    },
+    {
+        "question": "Dans *Five Nights at Freddy’s 4*, quel événement traumatisant est au cœur du lore du protagoniste ?",
+        "correct_answer": "The Bite of ’83",
+        "incorrect_answers": ["The Bite of ’87", "The Missing Children Incident"]
+    },
+    {
+        "question": "Quel animatronique de *Five Nights at Freddy’s: Security Breach* est associé à la musique et à un alligator ?",
+        "correct_answer": "Glamrock Monty",
+        "incorrect_answers": ["Glamrock Chica", "Roxanne Wolf"]
+    },
+    {
+        "question": "Quel est le nom du personnage humain qui guide le joueur dans *Five Nights at Freddy’s: Security Breach* ?",
+        "correct_answer": "Gregory",
+        "incorrect_answers": ["Vanessa", "Vanny"]
+    },
+    {
+        "question": "Dans *Five Nights at Freddy’s: Ultimate Custom Night*, combien d’animatroniques différents peuvent être actifs ?",
+        "correct_answer": "50",
+        "incorrect_answers": ["40", "60"]
+    },
+    {
+        "question": "Quel est le nom de l’animatronique qui apparaît uniquement dans les caméras de *Five Nights at Freddy’s 1* ?",
+        "correct_answer": "Golden Freddy",
+        "incorrect_answers": ["Shadow Bonnie", "Puppet"]
+    },
+    {
+        "question": "Dans *Five Nights at Freddy’s: Sister Location*, quel est le véritable nom de Circus Baby ?",
+        "correct_answer": "Elizabeth Afton",
+        "incorrect_answers": ["Charlotte Emily", "Susie"]
+    },
+    {
+        "question": "Quel jeu FNAF introduit pour la première fois le concept de ‘Custom Night’ ?",
+        "correct_answer": "Five Nights at Freddy’s 2",
+        "incorrect_answers": ["Five Nights at Freddy’s 1", "Five Nights at Freddy’s 3"]
+    },
+    {
+        "question": "Quel est le nom de l’antagoniste principal du lore FNAF, connu pour être le tueur des enfants ?",
+        "correct_answer": "William Afton",
+        "incorrect_answers": ["Henry Emily", "Michael Afton"]
+    },
+    {
+        "question": "Quel est le pourcentage exact de chance qu’un zombie lâche une pomme de terre empoisonnée sans enchantement de butin ?",
+        "correct_answer": "2,5 %",
+        "incorrect_answers": ["5 %", "1 %"]
+    },
+    {
+        "question": "Dans *Minecraft* 1.16, quelle est la portée maximale en blocs d’un piston poussé par un courant de redstone ?",
+        "correct_answer": "12 blocs",
+        "incorrect_answers": ["8 blocs", "16 blocs"]
+    },
+    {
+        "question": "Quel est le nombre maximum d’entités (mobs inclus) qu’un chunk peut contenir avant que le jeu commence à limiter leur apparition ?",
+        "correct_answer": "70",
+        "incorrect_answers": ["50", "100"]
+    },
+    {
+        "question": "Dans *Minecraft* 1.14, quelle est la durée exacte en ticks d’un cycle jour-nuit complet ?",
+        "correct_answer": "24000 ticks",
+        "incorrect_answers": ["20000 ticks", "30000 ticks"]
+    },
+    {
+        "question": "Quel est le biome le plus rare dans *Minecraft* en 1.18, en termes de probabilité d’apparition ?",
+        "correct_answer": "Taïga boisée modifiée",
+        "incorrect_answers": ["Plaines enneigées", "Désert vallonné"]
+    },
+    {
+        "question": "Dans *Minecraft* Java Edition, quelle est la commande exacte pour invoquer un Wither avec un nom personnalisé 'Boss' ?",
+        "correct_answer": "/summon wither ~ ~ ~ {CustomName:\"\\\"Boss\\\"\"}",
+        "incorrect_answers": ["/summon wither Boss", "/summon wither ~ ~ ~ {Name:Boss}"]
+    },
+    {
+        "question": "Quel est le nombre exact de blocs de diamant nécessaires pour créer un ensemble complet d’armure et une pioche ?",
+        "correct_answer": "29",
+        "incorrect_answers": ["24", "32"]
+    },
+    {
+        "question": "Dans *Minecraft* 1.17, quelle est la profondeur minimale (Y) où le diamant commence à apparaître ?",
+        "correct_answer": "Y=-59",
+        "incorrect_answers": ["Y=-63", "Y=-55"]
+    },
+    {
+        "question": "Quel est le pourcentage de chance qu’un piglin donne une perle de l’Ender lors d’un troc en 1.16 ?",
+        "correct_answer": "2,18 %",
+        "incorrect_answers": ["5 %", "1 %"]
+    },
+    {
+        "question": "Dans *Minecraft* Java Edition, quelle est la portée maximale en blocs d’un signal de redstone sans répéteur ?",
+        "correct_answer": "15 blocs",
+        "incorrect_answers": ["12 blocs", "20 blocs"]
+    },
+    {
+        "question": "Quel est le temps exact en ticks pour qu’un creeper explose après avoir été activé ?",
+        "correct_answer": "30 ticks",
+        "incorrect_answers": ["20 ticks", "40 ticks"]
+    },
+    {
+        "question": "Dans *Minecraft* 1.19, quel est le niveau de lumière minimum requis pour empêcher l’apparition de mobs hostiles ?",
+        "correct_answer": "8",
+        "incorrect_answers": ["7", "9"]
+    },
+    {
+        "question": "Quel est le nombre maximum de villageois qu’un village peut contenir avant que la reproduction s’arrête ?",
+        "correct_answer": "Aucun maximum fixe (dépend des lits)",
+        "incorrect_answers": ["20", "50"]
+    },
+    {
+        "question": "Dans *Minecraft* 1.18, quelle est la probabilité qu’un portail de l’End généré naturellement soit complet (12 yeux) ?",
+        "correct_answer": "0,0001 %",
+        "incorrect_answers": ["0,01 %", "0,001 %"]
+    },
+    {
+        "question": "Quel est le nombre exact de blocs qu’un joueur peut parcourir en sprintant avec une faim complète avant d’épuiser sa barre ?",
+        "correct_answer": "308 blocs",
+        "incorrect_answers": ["200 blocs", "400 blocs"]
+    }
+]
